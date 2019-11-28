@@ -6,10 +6,9 @@ I am a postgraduate student of MS Big Data Technologies at University of Westmin
 
 ### My Projects
 
-**Dissertation Topic:**  
-Apply machine learning algorithm to analyse and predict audience preferences based on thecontent and viewership statistics of TV series broadcasted over past 6 years.
-
-**other projects:**  
+**Dissertation Project:**  
+Apply machine learning algorithm to analyse and predict audience preferences based on thecontent and viewership statistics of TV series broadcasted over past 6 years.  
+**Other Projects:**  
 1. Sentimental analysis of TV series reviews on twitter
 2. Clustering (k-means, etc.) and predictive analysis (SVM, neural network analysis, etc.) by using machine learning algorithm
 3. Use SQL to establish database system for hotel management and relevant business analysis
