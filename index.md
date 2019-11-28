@@ -6,16 +6,18 @@ I am a postgraduate student of MS Big Data Technologies at University of Westmin
 
 ### My Projects
 
-**Dissertation Project:**  
+```
+**Dissertation Project:**
 Apply machine learning algorithm to analyse and predict audience preferences based on thecontent and viewership statistics of TV series broadcasted over past 6 years.  
-**Other Projects:**  
+**Other Projects:**
 1. Sentimental analysis of TV series reviews on twitter
 2. Clustering (k-means, etc.) and predictive analysis (SVM, neural network analysis, etc.) by using machine learning algorithm
 3. Use SQL to establish database system for hotel management and relevant business analysis
 4. Data visualization and analysis for London traffic accidents in the past five years.
+```
 
 ### Contact Me
-```diff
-+ Email: lixz051@outlook.com  
+
+Email: lixz051@outlook.com  
 Wechat: lixz051  
 Tel: +44 07543247100
