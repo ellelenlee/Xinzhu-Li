@@ -15,7 +15,7 @@ Apply machine learning algorithm to analyse and predict audience preferences bas
 4. Data visualization and analysis for London traffic accidents in the past five years.
 
 ### Contact Me
-
-Email: lixz051@outlook.com  
+```diff
++ Email: lixz051@outlook.com  
 Wechat: lixz051  
 Tel: +44 07543247100
