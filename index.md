@@ -6,14 +6,14 @@ I am a postgraduate student of MS Big Data Technologies at University of Westmin
 
 ### My Projects
 
-**Dissertation Project:**
-Apply machine learning algorithm to analyse and predict audience preferences based on thecontent and viewership statistics of TV series broadcasted over past 6 years.  
-**Other Projects:**
-1. **Sentimental Analysis**: Realtime reviews of "Game of Throne" on twitter
-2. **Clustering (k-means, etc.) and predictive analysis (SVM, neural network analysis, etc.)**
-3. **Database System for SQL**: Hotel management and relevant business analysis
-4. **Data Visualization**: London traffic accidents in the past five years.
+**Dissertation Project:** 电视剧收视率预测 TV Series' Viewership Pridiction 
+Apply machine learning algorithm to analyse and predict audience preferences based on the content and viewership statistics of TV series broadcasted over past 6 years.  
 
+**Other Projects:**
+1. **Database System for SQL**: Hotel management and relevant business analysis
+2. **Data Visualization**: London traffic accidents in the past five years.
+3. **Sentimental Analysis**: Realtime reviews of "Game of Throne" on twitter
+4. **Clustering (k-means, etc.) and predictive analysis (SVM, neural network analysis, etc.)**
 
 ### Contact Me
 
