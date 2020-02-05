@@ -8,13 +8,13 @@ sidebar:
 
     # Profile information
     name: Xinzhu Li
-    tagline: Full Stack Developer
+    tagline: Graduate Student
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: lixz051@outlook.com
     phone: 86 13206529603
-    website: ellelenlee.github.io/Xinzhu-Li/ #do not add http://
+    website: ellelenlee.github.io/Xinzhu-Li #do not add http://
     linkedin: 
     github: 
     gitlab:
@@ -31,17 +31,11 @@ sidebar:
       - idiom: English
         level: Professional
 
-      - idiom: 
-        level: 
-
     interests:
       - item: Reading
         link:
 
       - item: Traveling
-        link:
-
-      - item: 
         link:
 
 career-profile:
@@ -54,26 +48,18 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Big Data Technologies
+      university: University of Westminster
+      time: 2018.09 - 2019.09
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Describe your study here 
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BAc in Advertising and Marketing
+      university: Lancaster University
+      time: 2015.09 - 2018.06
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Describe your study here
           - Bullet point
           - Bullet point
 experiences:
@@ -167,20 +153,11 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Microsoft
+        level: 80%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Photoshop
+        level: 80%
