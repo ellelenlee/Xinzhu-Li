@@ -12,10 +12,9 @@ I am a postgraduate student of MS Big Data Technologies at University of Westmin
 
 **Other Projects:**
 1. **Database System for SQL**: Hotel management and relevant business analysis
-2. **Data Visualization**: London traffic accidents in the past five years; \color{#FF3030}{[Wordcloud for keywords related to Wuhan on Weibo](https://github.com/ellelenlee/Keywords-related-to-Wuhan-on-Weibo)}
+2. **Data Visualization**: London traffic accidents in the past five years; Wordcloud for keywords related to Wuhan on Weibo [<sup>1</sup>](https://github.com/ellelenlee/Keywords-related-to-Wuhan-on-Weibo)
 3. **Sentimental Analysis**: Realtime reviews of *Game of Throne Season 8* on twitter
-4. **[Clustering (k-means, etc.) and predictive analysis (SVM, neural network analysis, etc.)](https://github.com/ellelenlee/data-mining)**
-4. **Clustering (k-means, etc.) and predictive analysis (SVM, neural network analysis, etc.)**[<sup>1</sup>](https://github.com/ellelenlee/data-mining)
+4. **Clustering (k-means, etc.) and predictive analysis (SVM, neural network analysis, etc.)**[<sup>2</sup>](https://github.com/ellelenlee/data-mining)
 
 ## Contact Me
 
