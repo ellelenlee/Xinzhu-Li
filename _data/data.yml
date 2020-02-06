@@ -12,19 +12,11 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: lixz051@outlook.com
-    wechat: lixz051
-    phone: +86 13206529603
-    website: ellelenlee.github.io/Xinzhu-Li #do not add http://
-    linkedin: 
-    github: 
-    gitlab:
-    bitbucket:
-    twitter: 
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-
+    Email: lixz051@outlook.com
+    WeChat: lixz051
+    Phone: +86 13206529603
+    Website: ellelenlee.github.io/Xinzhu-Li #do not add http://
+    
     languages:
       - idiom: Mandarin
         level: Native
