@@ -2,25 +2,25 @@
   <ul class="list-unstyled contact-list">
 
     {% if sidebar.email %}
-    <li class="Email"><i class="fas fa-envelope"></i>
+    <li class="email"><i class="fas fa-envelope"></i>
       <a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>
     </li>
     {% endif %}
     
     {% if sidebar.wechat %}
-    <li class="WeChat"><i class="fas fa-wechat"></i>
+    <li class="wechat"><i class="fas fa-wechat"></i>
       <a href="tel:{{ sidebar.wechat }}">{{ sidebar.wechat }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.phone %}
-    <li class="Phone"><i class="fas fa-phone"></i>
+    <li class="phone"><i class="fas fa-phone"></i>
       <a href="tel:{{ sidebar.phone }}">{{ sidebar.phone }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.website %}
-    <li class="Website"><i class="fas fa-globe-americas"></i>
+    <li class="website"><i class="fas fa-globe-americas"></i>
       <a href="http://{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
     </li>
     {% endif %}
