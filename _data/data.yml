@@ -18,15 +18,15 @@ sidebar:
     website: ellelenlee.github.io/Xinzhu-Li #do not add http://
     
     skills:
-    toolset:
-      - name: Python
-        level: 80%
+      toolset:
+        - name: Python
+          level: 80%
 
-      - name: Microsoft
-        level: 80%
+        - name: Microsoft
+          level: 80%
 
-      - name: Photoshop
-        level: 80%
+        - name: Photoshop
+          level: 80%
     
     languages:
       - idiom: Mandarin
