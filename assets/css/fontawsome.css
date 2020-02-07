@@ -1,0 +1,63 @@
+.fa,
+.fas,
+.far,
+.fal,
+.fab {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1; }
+  
+.fa-stack {
+  display: inline-block;
+  height: 2em;
+  line-height: 2em;
+  position: relative;
+  vertical-align: middle;
+  width: 2em; }
+
+.fa-stack-1x,
+.fa-stack-2x {
+  left: 0;
+  position: absolute;
+  text-align: center;
+  width: 100%; }
+
+.fa-stack-1x {
+  line-height: inherit; }
+
+.fa-stack-2x {
+  font-size: 2em; }
+
+.fa-inverse {
+  color: #fff; }
+
+.fa-globe:before {
+  content: "\f0ac"; }
+
+.fa-globe-africa:before {
+  content: "\f57c"; }
+
+.fa-globe-americas:before {
+  content: "\f57d"; }
+
+.fa-globe-asia:before {
+  content: "\f57e"; }
+
+.fa-xs {
+  font-size: .75em; }
+  
+.fa-graduation-cap:before {
+  content: "\f19d"; }
+  
+.fa-envelope:before {
+  content: "\f0e0"; }
+  
+.fa-weixin:before {
+  content: "\f1d7"; }
+  
+.fa-phone:before {
+  content: "\f095"; }
