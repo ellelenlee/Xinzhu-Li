@@ -15,10 +15,8 @@ I am a postgraduate student of MS Big Data Technologies at University of Westmin
 
 **Dissertation Project:** 
 
-TV Series' Viewership Pridiction 电视剧收视率预测 
+TV Series' Viewership Pridiction 电视剧收视率预测   
 *Apply machine learning algorithm to analyse and predict audience preferences based on the content and viewership statistics of TV series broadcasted over past 6 years.*  
-
-<br/>
 
 **Other Projects:**
 1. **Database System for SQL**: Hotel management and relevant business analysis
