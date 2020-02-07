@@ -19,14 +19,14 @@ sidebar:
     
     skills:
       toolset:
-        - name: Python
+        - name: Python & R
           level: 80%
 
-        - name: Microsoft
-          level: 80%
+        - name: Microsoft office
+          level: 85%
 
         - name: Photoshop
-          level: 80%
+          level: 85%
     
     languages:
       - idiom: Mandarin
