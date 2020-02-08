@@ -26,16 +26,6 @@ TV Series' Viewership Pridiction 电视剧收视率预测
 
 <br/>
 
-## Contact Me
----
-
-<br/>
-Email: lixz051@outlook.com  
-Wechat: lixz051  
-Tel: +86 13206529603
-
-<br/>
-
 ## Skills
 ---
 
@@ -44,13 +34,6 @@ Tel: +86 13206529603
 {% assign skills = site.data.data.skills %}
 {% if skills %}
 <section class="skills-section section">
-  <h2 class="section-title">
-    <span class="fa-stack fa-xs">
-      <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-wrench fa-stack-1x fa-inverse"></i>
-    </span>
-    {{ skills.title }}
-  </h2>
   <div class="skillset">
     {% for skill in skills.toolset %}
     <div class="item">
@@ -65,6 +48,15 @@ Tel: +86 13206529603
 </section><!--//skills-section-->
 {% endif %}
 
+<br/>
+
+## Contact Me
+---
+
+<br/>
+Email: lixz051@outlook.com  
+Wechat: lixz051  
+Tel: +86 13206529603
 
 
 
