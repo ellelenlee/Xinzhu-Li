@@ -35,11 +35,9 @@ Wechat: lixz051
 Tel: +86 13206529603
 
 ## Skills
+---
 
-<h2 class="container-block-title">
-  skills
-</h2>
-  
+<br/>
 <span class="item">
   <h3 class="level-title">{{ skill.name }}</h3>
     <span class="level-bar">
