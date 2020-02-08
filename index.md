@@ -41,17 +41,17 @@ Tel: +86 13206529603
 
 <br/>
 
-<div class="skillset">
+<span class="skillset">
   {% for skill in skills.toolset %}
-  <div class="item">
+  <span class="item">
     <h3 class="level-title">{{ skill.name }}</h3>
-    <div class="level-bar">
-      <div class="level-bar-inner" data-level="{{ skill.level }}">
-      </div>
-    </div><!--//level-bar-->
-  </div><!--//item-->
+    <span class="level-bar">
+      <span class="level-bar-inner" data-level="{{ skill.level }}">
+      </span>
+    </span><!--//level-bar-->
+  </span><!--//item-->
   {% endfor %}
-</div>
+</span>
 
 
 
