@@ -33,3 +33,31 @@ TV Series' Viewership Pridiction 电视剧收视率预测
 Email: lixz051@outlook.com  
 Wechat: lixz051  
 Tel: +86 13206529603
+
+## Skills
+
+{% assign skills = site.data.data.sidebar.skills %}
+{% if skills %}
+<span class="skillset container-block">
+
+  <h2 class="container-block-title">
+    skills
+  </h2>
+  
+  {% for skill in skills.toolset %}
+  <span class="item">
+    
+    <h3 class="level-title">{{ skill.name }}</h3>
+    
+    <span class="level-bar">
+      
+      <span class="level-bar-inner" data-level="{{ skill.level }}">
+      </span>
+    
+    </span><!--//level-bar-->
+
+  </span><!--//item-->
+  {% endfor %}
+
+</span>
+{% endif %}
