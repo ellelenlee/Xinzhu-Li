@@ -59,3 +59,13 @@ education:
           - Bullet point
 
 
+skills:
+    toolset:
+      - name: Python & R
+        level: 80%
+
+      - name: Microsoft office
+        level: 85%
+
+      - name: Photoshop
+        level: 85%
