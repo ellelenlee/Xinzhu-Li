@@ -17,17 +17,6 @@ sidebar:
     phone: +86 13206529603
     website: ellelenlee.github.io/Xinzhu-Li #do not add http://
     
-    skills:
-      toolset:
-        - name: Python & R
-          level: 80%
-
-        - name: Microsoft office
-          level: 85%
-
-        - name: Photoshop
-          level: 85%
-    
     languages:
       - idiom: Mandarin
         level: Native
