@@ -41,7 +41,6 @@ Tel: +86 13206529603
 
 <br/>
 
-
 <div class="skillset">
   {% for skill in skills.toolset %}
   <div class="item">
