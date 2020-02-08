@@ -51,7 +51,7 @@ Tel: +86 13206529603
       </div>
     </div><!--//level-bar-->
   </div><!--//item-->
-  {% endfor %>
+  {% endfor %}
 </div>
 
 
