@@ -2,7 +2,7 @@ body {
     font-family: 'Calibri','Microsoft YaHei','SimHei';
     color: $text-color-secondary;
     background: $smoky-white;
-    font-size: 14px;
+    font-size: 16px,14px,14px;
     padding: 30px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -96,13 +96,13 @@ p {
     }
     .container-block-title {
         text-transform: uppercase;
-        font-size: 16px;
+        font-size: 18px;
         font-weight: 700;
         margin-top: 0;
         margin-bottom: 15px;
     }
     .degree {
-        font-size: 14px;
+        font-size: 16px;
         margin-top: 0;
         margin-bottom: 5px;
     }
@@ -176,7 +176,7 @@ p {
         overflow: hidden;
     }
     .level-title {
-        font-size: 14px;
+        font-size: 16px;
         margin-top: 0;
         margin-bottom: 12px;
     }
