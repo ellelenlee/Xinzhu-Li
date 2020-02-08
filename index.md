@@ -34,6 +34,8 @@ Email: lixz051@outlook.com
 Wechat: lixz051  
 Tel: +86 13206529603
 
+<br/>
+
 ## Skills
 ---
 
@@ -51,9 +53,34 @@ Tel: +86 13206529603
     </div><!--//level-bar-->
   </div><!--//item-->
   {% endfor %}
-
 </div>
 {% endif %}
+
+
+{% assign skills = site.data.data.skills %}
+{% if skills %}
+<section class="skills-section section">
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-wrench fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ skills.title }}
+  </h2>
+  <div class="skillset">
+    {% for skill in skills.toolset %}
+    <div class="item">
+      <h3 class="level-title">{{ skill.name }}</h3>
+      <div class="level-bar">
+        <div class="level-bar-inner" data-level="{{ skill.level }}">
+        </div>
+      </div><!--//level-bar-->
+    </div><!--//item-->
+    {% endfor %}
+  </div>
+</section><!--//skills-section-->
+{% endif %}
+
 
 
 
