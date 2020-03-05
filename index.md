@@ -21,7 +21,7 @@ TV Series' Viewership Pridiction <font size="2">电视剧收视率预测</font>
 **Other Projects:**
 1. **Database System for SQL**: Hotel management and relevant business analysis
 2. **Data Visualization**: London traffic accidents in the past five years; Wordcloud for rencent Weibo about Wuhan[<sup>1</sup>](https://github.com/ellelenlee/Keywords-related-to-Wuhan-on-Weibo)
-3. **Sentimental Analysis**: Realtime reviews of *Game of Throne Season 8* on twitter[<sup>2</sup>](https://github.com/ellelenlee/Xinzhu-Li/GOT_Twitter.jpg)
+3. **Sentimental Analysis**: Realtime reviews of *Game of Throne Season 8* on twitter[<sup>2</sup>](object data="https://github.com/ellelenlee/Xinzhu-Li/GOT_Twitter.jpg" type="application/pdf" width="750px" height="750px")
 4. **Clustering (k-means, etc.) and Predictive Analysis (SVM, neural network analysis, etc.)**[<sup>3</sup>](https://github.com/ellelenlee/data-mining)
 
 <br/>
